@@ -14,8 +14,10 @@ Usage: `rascon.py [adehmptx] file.adoc`
 
 A lack of command options assumes \[a\]ll
 
-====== OS Dependencies Linux: pandoc, asciidoc, dblatex
+**OS Dependencies**
 
-====== TODO
+Linux: pandoc, asciidoc, dblatex
+
+**TODO**
 
 Offer a help option (h and --help) along with version date
