@@ -13,7 +13,7 @@ import glob
 import shutil as f
 
 ####################################################
-# change to your 'published' directory
+# change to your 'published' directory 
 PUBDIR = '/home/<user>/writing/pub'
 ####################################################
 
