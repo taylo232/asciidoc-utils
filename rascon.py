@@ -13,12 +13,9 @@ TODO: Offer a help option (h and --help) along with version date
 import sys
 import subprocess
 
-##############################################################
-# change to your own home directory 
-# You will need an MS Word template in the .pandoc folder
+# Setting path the the pandoc MS Word template
 PANDOCCFG = (os.path.expanduser('~')) + '/.pandoc'
 PANDOCDOCX = '--reference-doc=' + PANDOCCFG + '/template.docx'
-##############################################################
 
 # read in args
 if len(sys.argv) == 1 or len(sys.argv) > 3:
