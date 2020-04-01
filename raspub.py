@@ -14,7 +14,7 @@ import shutil as f
 
 ####################################################
 # change to your 'published' directory
-PUBDIR = '/home/rjt/writing/pub'
+PUBDIR = '/home/<user>/writing/pub'
 ####################################################
 
 CURDIR = os.getcwd()
