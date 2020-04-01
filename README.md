@@ -12,7 +12,7 @@ The formats are \[d\]ocx, \[e\]pub, \[h\]tml, \[m\]arkdown, \[p\]df,
 
 Usage: `rascon.py [adehmptx] file.adoc`
 
-A lack of command options assumes \[a\]all
+A lack of command options assumes \[a\]ll
 
 ====== OS Dependencies Linux: pandoc, asciidoc, dblatex
 
