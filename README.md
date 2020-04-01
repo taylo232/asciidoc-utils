@@ -38,7 +38,7 @@ raspub.py
 
 This script moves any html files in the current folder to the nominated
 publishing folder. In the destination folder, the existing `index.html`
-file is replaced with a new one containing th elinks to any html file
+file is replaced with a new one containing the links to any html file
 found in that folder. The links are sorted by modified date, with the
 newest at the top. It is assumed that the publishing folder contains a
 css file `pub.css`.
@@ -49,6 +49,7 @@ Usage: `raspub.py`
 
 **TODO:**
 
--   Offer ftp transfer of pub files through cammandline option
+-   Offer ftp transfer of pub files through commandline option and cfg
+    file for login info
 
 
