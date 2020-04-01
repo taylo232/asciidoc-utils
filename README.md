@@ -1,5 +1,6 @@
-This is a set of python scripts collecting together the commands I have
-been using on the linux commandline (wsl) to process my asciidocs.
+This is a set of (hacked, non-idiomatic) python scripts collecting
+together the commands I have been using on the linux commandline (wsl)
+to process my asciidocs.
 
 rascon.py
 =========
