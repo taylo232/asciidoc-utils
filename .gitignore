@@ -10,3 +10,4 @@
 *.epub
 tidy
 test.py
+*.markdown
