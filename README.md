@@ -44,6 +44,9 @@ found in that folder. The links are sorted by modified date, with the
 newest at the top. It is assumed that the publishing folder contains a
 css file `pub.css`.
 
+The variable `PUBDIR` needs to be set with the chosen publishing folder
+(Line 17)
+
 Usage: `raspub.py`
 
 **OS Dependencies (Linux):** - None

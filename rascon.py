@@ -16,7 +16,7 @@ import subprocess
 ##############################################################
 # change to your own home directory 
 # You will need an MS Word template in the .pandoc folder
-PANDOCCFG = "/home/<user>/.pandoc"
+PANDOCCFG = (os.path.expanduser('~')) + '/.pandoc'
 PANDOCDOCX = '--reference-doc=' + PANDOCCFG + '/template.docx'
 ##############################################################
 
