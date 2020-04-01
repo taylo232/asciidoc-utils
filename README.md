@@ -8,7 +8,11 @@ This converts an asciidoc file into a variety of formats, all done in
 the working directory.
 
 The formats are \[d\]ocx, \[e\]pub, \[h\]tml, \[m\]arkdown, \[p\]df,
-\[t\]xt, docbook\[x\]ml, \[a\]ll
+\[t\]xt, docbook\[x\]ml, \[all.
+
+For conversion to MS Word (.docx) there needs to be a `template.docx` in
+`` ~/.pandoc/` ``. The tempalte can be configured to your own preferred
+style.
 
 Usage: `rascon.py [adehmptx] file.adoc`
 
