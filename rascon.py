@@ -10,6 +10,8 @@ OS DEPENDENCIES
 pandoc, asciidoctor, asciidoc, dblatex
 TODO: Offer a help option (h and --help) along with version date
 '''
+
+import os
 import sys
 import subprocess
 
